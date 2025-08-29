@@ -1,5 +1,4 @@
 import React from "react";
-import diretor from '../assets/images/diretor.jpg';
 
 function QuemSomos() {
   return (
@@ -46,16 +45,6 @@ function QuemSomos() {
               <p>Atendimento de qualidade, garantindo segurança e satisfação para todos os clientes.</p>
             </div>
           </div>
-        </div>
-
-        <div className="sobre-imagem">
-          <img src={diretor} alt="Diretor Executivo" className="diretor-foto-pequena"/>
-          <p className="diretor-nome">Evilazio Gomes – Diretor Executivo</p>
-          <p className="diretor-bio">
-            Evilazio Gomes traz uma sólida trajetória no mercado imobiliário e, nos últimos três anos,
-            lidera a Conquist Energy com dedicação e visão estratégica, promovendo um futuro mais
-            sustentável e energeticamente eficiente.
-          </p>
         </div>
       </div>
     </section>
