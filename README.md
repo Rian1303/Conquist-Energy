@@ -35,9 +35,8 @@ O site está hospedado e publicado no domínio oficial da empresa:
 ## ✨ Autor
 
 Desenvolvido por **Rian**  
-📧 [seu-email@exemplo.com]  
-💼 [seu-linkedin](https://linkedin.com/in/seu-perfil) *(opcional)*  
-
+📧 rian.programador@outlook.com
+💼 https://www.linkedin.com/in/rianplumagomes/
 ---
 
 ### 📄 Observação
